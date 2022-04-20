@@ -1,0 +1,6 @@
+w= jump
+a= move left
+d= move right
+q= grenade
+space= fire ammo
+esc= quit
